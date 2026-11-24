@@ -32,8 +32,8 @@
 4. **Riesgo previo:** La versión se encontraba vieja por lo que encontrabamos fallos de seguridad
 5. **Ataque:** Aprovechamiento de software incorrecto
 6. **Impacto:**
-   - Impacto cuantitativo: 
-   - Impacto cualitativo:
+   - Impacto cuantitativo: El coste de las perdidas que ha supuesto la perdida del contenido
+   - Impacto cualitativo: 
 
 ---
 
